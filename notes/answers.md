@@ -1,0 +1,1 @@
+apt update downloads the newest list of available packages from the repositories. It does not install anything. apt upgrade installs the newer versions of the packages already on the server. We must run apt update first so the system knows which new versions are available. After that we run apt upgrade to install them.
